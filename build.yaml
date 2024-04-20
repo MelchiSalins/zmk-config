@@ -18,7 +18,7 @@
 #
 ---
 include:
-  - board: nrf52840dk_nrf52840
-    shield: splitkb_aurora_sweep_left
-  - board: nrf52840dk_nrf52840
-    shield: splitkb_aurora_sweep_right
+  - board: nice_nano_v2
+    shield: cradio_left
+  - board: nice_nano_v2
+    shield: cradio_right
